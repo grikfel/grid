@@ -1,0 +1,11 @@
+C:\Users\Doberman\source\repos\grid1\grid1\bin\Debug\grid1.exe.config
+C:\Users\Doberman\source\repos\grid1\grid1\bin\Debug\grid1.exe
+C:\Users\Doberman\source\repos\grid1\grid1\bin\Debug\grid1.pdb
+C:\Users\Doberman\source\repos\grid1\grid1\obj\Debug\grid1.csproj.AssemblyReference.cache
+C:\Users\Doberman\source\repos\grid1\grid1\obj\Debug\grid1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doberman\source\repos\grid1\grid1\obj\Debug\grid1.Form1.resources
+C:\Users\Doberman\source\repos\grid1\grid1\obj\Debug\grid1.Properties.Resources.resources
+C:\Users\Doberman\source\repos\grid1\grid1\obj\Debug\grid1.csproj.GenerateResource.cache
+C:\Users\Doberman\source\repos\grid1\grid1\obj\Debug\grid1.csproj.CoreCompileInputs.cache
+C:\Users\Doberman\source\repos\grid1\grid1\obj\Debug\grid1.exe
+C:\Users\Doberman\source\repos\grid1\grid1\obj\Debug\grid1.pdb
